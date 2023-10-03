@@ -5539,10 +5539,11 @@ MonoBehaviour:
   networkAddress: localhost
   maxConnections: 10
   authenticator: {fileID: 0}
-  playerPrefab: {fileID: 1551455602030449158, guid: f75beaf0c0aa787449a325d57dddd262, type: 3}
+  playerPrefab: {fileID: 844717362685181648, guid: 4ab0a427bdc13244499c6e044ad7eb40, type: 3}
   autoCreatePlayer: 1
   playerSpawnMethod: 0
-  spawnPrefabs: []
+  spawnPrefabs:
+  - {fileID: 5954721323911755139, guid: a92f2f9935992794cb643718b05d1428, type: 3}
   roomServerManager: {fileID: 0}
   logLevel: 3
 --- !u!4 &1812898398
@@ -6132,7 +6133,7 @@ MonoBehaviour:
   killProcessesWhenStop: 1
   autoStartInEditor: 1
   overrideExePathInEditor: 1
-  exePathFromEditor: C:\Users\rafael\Desktop\Unity\MST-Testing\Builds\BasicChess\Chess\Chess.exe
+  exePathFromEditor: C:\Users\Administrator\Desktop\git\mst\MasterServerChess\Builds\BasicChess\Chess\Chess.exe
   OnSpawnerStartedEvent:
     m_PersistentCalls:
       m_Calls: []

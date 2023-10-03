@@ -6,9 +6,9 @@ using UnityEngine;
 
 namespace MasterServerToolkit.MasterServer.Examples.BasicMirrorRoomsAndLobbies
 {
-    public class BasicChessBuild
+    public class BasicTutorialChessBuild
     {
-        [MenuItem("CM/Build/BasicChess/Game (Headless)")]
+        [MenuItem("CM/Build/BasicChess/TutorialBuild Game (Headless)")]
         private static void BuildRoomForWindowsHeadless()
         {
             BuildRoomForWindows(true);

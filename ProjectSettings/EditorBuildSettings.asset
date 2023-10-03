@@ -18,6 +18,30 @@ EditorBuildSettings:
     path: Assets/Scenes/Tutorial/RafaelTutorialGameServerChess.unity
     guid: 5895e48a6f727404e9a6ee1f8fa4ff52
   - enabled: 1
-    path: Assets/Scenes/BasicMirrorChess/Room/Chess.unity
+    path: Assets/Scenes/BasicChess/Room/Chess.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BasicChess/Client/ChessLobby.unity
+    guid: 940f762dbf780154ba85bd336c86d825
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Demos/BasicRoomsAndLobbies/Scenes/Client/Client.unity
+    guid: dfb0a477e059f8343a14c70b0687453e
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Demos/BasicProfiles/Scenes/Client/Client.unity
+    guid: 0fb5575933aea2b4496a031a5ce4968a
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Demos/BasicNetworking/Client.unity
+    guid: 80f9695ffa3a26745a475e4e97f8c095
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Demos/BasicConnection/Scenes/Client/Client.unity
+    guid: 46f005561767a524f995c5aea75ae0cf
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Demos/BasicAuthorization/Scenes/Client/Client.unity
+    guid: 103ded25f4187a54e99978459f0135cb
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Scenes/Client/Client.unity
+    guid: 98b370a86e706f549b45cc15330595a2
+  - enabled: 1
+    path: Assets/MasterServerToolkit/Demos/BasicChat/Scenes/Client/Client.unity
+    guid: fd103597bb43de64995fbe028ab7c36a
   m_configObjects: {}
